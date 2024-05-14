@@ -101,4 +101,4 @@
   <img src="https://img.shields.io/badge/-Geospatial%20Data%20Visualization-pink?style=flat-square" alt="Geospatial Data Visualization">
   <img src="https://img.shields.io/badge/-Open%20Source%20GIS%20Tools-blueviolet?style=flat-square" alt="Open Source GIS Tools">
   <img src="https://img.shields.io/badge/-GIS%20Software%20Development-9cf?style=flat-square" alt="GIS Software Development">
-  <img src="https://img.shields.io/badge/-Geospatial%20Machine%20Learning
+  <img src="https://img.shields.io/badge/-Geospatial%20Machine%20Learning-orange?style=flat-
