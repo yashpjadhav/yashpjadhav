@@ -1,6 +1,6 @@
 <!-- Heading -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338D2FF&size=50&duration=4000&center=true&vCenter=true&height=60&lines=Yash+Jadhav+👨‍💻🌍" alt="Yash Jadhav">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338D2FF&size=50&duration=4000&center=true&vCenter=true&height=60&lines=Yash+Jadhav+👨‍💻🌍" alt="YashJadhav">
 </div>
 
 <!-- Socials -->
